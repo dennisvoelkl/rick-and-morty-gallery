@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+}
+
+.CharacterCard {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-block-size: auto;
+}
